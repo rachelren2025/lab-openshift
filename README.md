@@ -1,5 +1,6 @@
 # Lab OpenShift
 
+Fire!
 
 [![Build Status](https://github.com/nyu-devops/lab-openshift/actions/workflows/ci.yml/badge.svg)](https://github.com/nyu-devops/lab-openshift/actions)
 [![codecov](https://codecov.io/gh/nyu-devops/lab-openshift/branch/master/graph/badge.svg?token=y6OUlCB4bC)](https://codecov.io/gh/nyu-devops/lab-openshift)
